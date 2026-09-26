@@ -4,3 +4,4 @@ recordings
 *.log
 .DS_Store
 .takeone
+config.bat
